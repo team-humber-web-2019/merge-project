@@ -8,6 +8,7 @@ Here is a bio of the users on this project. Please fill out your information.
 
 ### Rocco P
 
+Exerienced developerer. Likes long walks on the beach. :)
 
 ### Sunny KP
 
